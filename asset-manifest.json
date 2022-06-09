@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Mueez_Portf/static/css/main.aaa9d22c.css",
+    "main.js": "/Mueez_Portf/static/js/main.5df99321.js",
+    "static/media/profile1.png": "/Mueez_Portf/static/media/profile1.62f017d9e60798cfa646.png",
+    "static/media/prof1.png": "/Mueez_Portf/static/media/prof1.3a90f3436e844dd27d81.png",
+    "static/media/mueezcv.pdf": "/Mueez_Portf/static/media/mueezcv.4444cade4edfd9d18642.pdf",
+    "static/media/portfolio5.png": "/Mueez_Portf/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/portfolio2.jpg": "/Mueez_Portf/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/Mueez_Portf/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio1.jpg": "/Mueez_Portf/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/Mueez_Portf/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/Mueez_Portf/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "index.html": "/Mueez_Portf/index.html",
+    "main.aaa9d22c.css.map": "/Mueez_Portf/static/css/main.aaa9d22c.css.map",
+    "main.5df99321.js.map": "/Mueez_Portf/static/js/main.5df99321.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aaa9d22c.css",
+    "static/js/main.5df99321.js"
+  ]
+}
